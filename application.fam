@@ -1,0 +1,13 @@
+App(
+    appid="rfidentifier",
+    name="RFidentifier",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="rfidentifier_app",
+    requires=["gui", "storage"],
+    stack_size=6 * 1024,
+    fap_category="Sub-GHz",
+    fap_version=(1, 0),
+    fap_author="Marcopiiit",
+    fap_description="Read Sub-GHz signals and check if they are already saved (decoded and/or RAW). Also finds duplicate files.",
+    fap_icon="fapicon.png",
+)

@@ -11,6 +11,8 @@ RFidentifier helps identify previously saved Sub-GHz signals and find duplicate 
 
 It supports both decoded protocol identification and RAW signal fingerprint comparison.
 
+*SEARCH IN ALL FILES IS NOT RECOMMENDED IF YOU HAVE A BIG SUBGHZ DATABASE, CHANGE APP SETTINGS BEFORE SEARCHING YOUR SIGNAL*
+
 ## Features
 
 ### Read
